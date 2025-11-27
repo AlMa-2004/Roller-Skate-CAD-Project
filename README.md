@@ -3,8 +3,11 @@
 ## Overview
 This project was created for my university course **Grafica Asistată de Calculator** (Computer-Aided Graphics). It includes a 2D and 3D reconstruction of a pair of roller skates inspired by the **Oxelo Fit 5 JR** model, developed using **Autodesk AutoCAD 2024**.
 
-![Side-View Render of the Roller Skate](Render1.png)
-*Side-View Render of the Roller Skate*
+<div align="center">
+  <img src="Render1.png" alt="Side-View Render of the Roller Skate" width="500">
+  <p><em>Side-View Render of the Roller Skate</em></p>
+</div>
+
 
 The project helped me explore AutoCAD’s drafting and modeling tools, improve precision in technical design, and organize a complete CAD workflow.
 
